@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">Theoretical Molecular Science Group</title>
+  <desc id="desc">A teal and dark laboratory banner inspired by the previous YCC LAB wordmark.</desc>
+  <rect width="900" height="180" fill="#ffffff"/>
+  <g font-family="Inter, Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="-5">
+    <text x="16" y="92" font-size="88" fill="#17c9bd">TMS</text>
+    <text x="245" y="92" font-size="88" fill="#213f46">GROUP</text>
+  </g>
+  <text x="20" y="137" font-family="Inter, Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="2.6" fill="#526970">THEORETICAL MOLECULAR SCIENCE</text>
+  <line x1="20" y1="154" x2="880" y2="154" stroke="#17c9bd" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
+</svg>
